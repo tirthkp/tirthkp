@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Flutter.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me **tirthp57@gmail.com**
+- 📫 How to reach me **tirthp57@gmail.com.**
 
 - ⚡ Fun fact **I play games and I am noob in that.**
 
