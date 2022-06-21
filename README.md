@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me: **tirthp57@gmail.com.**
+- 📫 How to reach me: **tirthp57@gmail.com**
 
 - 😄 Pronouns: He/His
 
-- ⚡ Fun fact **I play games and I am noob in that.**
+- ⚡ Fun fact: **I play games and I am noob in that.**
 
 ## 🚀 Languages and Tools:
 
