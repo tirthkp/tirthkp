@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **tirthp57@gmail.com**
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: **He/His**
 
 - ⚡ Fun fact: **I play games and I am noob in that.**
 
