@@ -1,5 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<p align="center">
+<a href="#"><img width="50%" height="50%"  src="https://i.ibb.co/9ZdtfvZ/3d-nft-icon-developer-male-illustration-629802-6-removebg-preview-1.png"  /></a>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Tirth</h1>
 <h3 align="center">I'm a passionate Flutter UI Developer from India.</h3>
 
