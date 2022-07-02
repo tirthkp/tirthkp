@@ -51,9 +51,9 @@
 </p>
 
 ### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=Vertical&theme=tokyonight)
-
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=verticle&theme=tokyonight">
+</p>
 ## Connect with me:
 <p align="left">
 
