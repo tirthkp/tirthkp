@@ -48,11 +48,13 @@
   <a href="https://github.com/tirthkp/github-readme-stats"><img alt="Tirth Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthkp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="200px"  width="400px" /></a> <br/>
 	
 </p>
+<br/>
 
-### ✍️Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=verticle&theme=tokyonight">
-</p>
+## ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 ## Connect with me:
 <p align="left">
 
