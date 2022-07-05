@@ -31,7 +31,8 @@
 <p align="center">
     <a href="https://github.com/tirthkp/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tirth Patel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthkp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-        </a>
+        </a><br/><br/>
+	<a href="https://wakatime.com/@7bbb6449-b615-4b60-8635-b548e17f5175"><img src="https://wakatime.com/badge/user/7bbb6449-b615-4b60-8635-b548e17f5175.svg" alt="Total time coded since Jul 16 2021" /></a>
 </p>
 <br/>
 
