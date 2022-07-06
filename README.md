@@ -1,4 +1,4 @@
-
+<a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/PxEVCZg.png" /></a>
 </p>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px">, I'm Tirth</h1>
 <h3 align="center">I'm a passionate Flutter UI Developer from India.</h3>
